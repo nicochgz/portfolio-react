@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.54111891.css",
-    "main.js": "/portfolio-react/static/js/main.ec3f1e4b.js",
+    "main.css": "/portfolio-react/static/css/main.7e85e28d.css",
+    "main.js": "/portfolio-react/static/js/main.8f1934ae.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
     "static/media/dukicabeson.png": "/portfolio-react/static/media/dukicabeson.955bb7740cda9086e6c2.png",
+    "static/media/img-p22.jpg": "/portfolio-react/static/media/img-p22.891e25b853085eac9d68.jpg",
     "static/media/foto-mia.jpg": "/portfolio-react/static/media/foto-mia.7da84b30fe30389f0fce.jpg",
     "static/media/img-p9.jpg": "/portfolio-react/static/media/img-p9.af91aab2c3f3df5a2988.jpg",
     "static/media/img-p19.jpg": "/portfolio-react/static/media/img-p19.933a5deb46d8d6817297.jpg",
@@ -34,9 +35,11 @@
     "static/media/logo-maya.svg": "/portfolio-react/static/media/logo-maya.305166bac2db20577833.svg",
     "static/media/logo-php.svg": "/portfolio-react/static/media/logo-php.86250ddb9d5bbfb47e9c.svg",
     "static/media/logo-mongo.svg": "/portfolio-react/static/media/logo-mongo.464a4e8bb6d791cfa542.svg",
+    "static/media/github-142-svgrepo-com.svg": "/portfolio-react/static/media/github-142-svgrepo-com.5531be85d7a8d6f333e5.svg",
     "static/media/logo-photoshop.svg": "/portfolio-react/static/media/logo-photoshop.9d5c5ac1a50910b54a1c.svg",
     "static/media/logo-aftereffects.svg": "/portfolio-react/static/media/logo-aftereffects.a9d476bbf51162508613.svg",
     "static/media/logo-audition.svg": "/portfolio-react/static/media/logo-audition.098b8a0ef15e180264e5.svg",
+    "static/media/git-svgrepo-com.svg": "/portfolio-react/static/media/git-svgrepo-com.71a5b8fe639ba6f15b92.svg",
     "static/media/logo-css3.svg": "/portfolio-react/static/media/logo-css3.aec31ad6887c3a820a1b.svg",
     "static/media/logo-html5.svg": "/portfolio-react/static/media/logo-html5.50b3a9cc6fa66c879f2f.svg",
     "static/media/logo-illustrator.svg": "/portfolio-react/static/media/logo-illustrator.1a1c6239df13b2a85874.svg",
@@ -49,12 +52,12 @@
     "static/media/logo-vue.svg": "/portfolio-react/static/media/logo-vue.d5e5e28576a946b29b76.svg",
     "static/media/logo-npm.svg": "/portfolio-react/static/media/logo-npm.3105854e2a9d8a2e5167.svg",
     "static/media/logo-unity.svg": "/portfolio-react/static/media/logo-unity.6a9280cbe90bf95a7968.svg",
-    "main.54111891.css.map": "/portfolio-react/static/css/main.54111891.css.map",
-    "main.ec3f1e4b.js.map": "/portfolio-react/static/js/main.ec3f1e4b.js.map",
+    "main.7e85e28d.css.map": "/portfolio-react/static/css/main.7e85e28d.css.map",
+    "main.8f1934ae.js.map": "/portfolio-react/static/js/main.8f1934ae.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54111891.css",
-    "static/js/main.ec3f1e4b.js"
+    "static/css/main.7e85e28d.css",
+    "static/js/main.8f1934ae.js"
   ]
 }
